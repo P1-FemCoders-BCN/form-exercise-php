@@ -36,6 +36,7 @@
 3. Topics to practice:
    Forms in PHP, CSS (free design).
 
+*** 
 
 https://user-images.githubusercontent.com/73828751/210826596-b752725f-7810-4c8b-9d23-e9ceeb34ab14.mp4
 
