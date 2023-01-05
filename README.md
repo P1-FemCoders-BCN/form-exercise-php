@@ -4,7 +4,7 @@
 
 1. Objetivo:
 
-- Deberás crear un formulario en php tal como se muestra en el video, haciendo uso de diferentes tipos de inputs.
+- Deberás crear un formulario en php tal como se muestra en el video cargado al final de ésta página, haciendo uso de diferentes tipos de inputs.
 - De los inputs que son para subir archivos, el primero subirá el mismo nombre de la imagen que se encuentra en tu computadora, el segundo añadirá un número identificador al nombre de tu imagen y el tercero validará si existte en tu carpeta, en el caso de que no exista, no le agregará ninguna identificación y en el caso de que si exista, le agragará un identificador al nombre de la imagen.
 - Al dar al botón de enviar, imprimirá en pantalla el valor que ha obtenido del formulario, en el caso de los archivos bastará con imprimir el array del archivo.
 
@@ -24,7 +24,7 @@
 
 1. Purpose:
 
-- You will have to create a form in php as shown in the video, making use of different types of inputs.
+- You will have to create a form in php as shown in the video uploaded at the end of this page, making use of different types of inputs.
 - Of the uploading files inputs, the first will upload the same name as the image found on your computer, the second will change the name by adding an identifier number of your image, and the third will validate if it exists in your folder, in the case that it does not exist, it will not add any identification and in the case that it does exist, it will add an identifier before the name of the image.
 - By clicking on the send button, it will print the value obtained from the form on the screen. In the case of files, it will be enough to print the file array.
 
